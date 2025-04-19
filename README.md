@@ -20,4 +20,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, twe
 
 ## 🌟 About Me
 
-HEllo friends!, my name is Stanley Gracia. I’m an a Tech lover and is passionate about learner anything new.  I am on a mission to share knowledge and make working with data enjoyable and engaging!
+Hello friends!, my name is Stanley Gracia. I am just your normal tech lover and I am passionate about learner anything new.  I am on a mission to share knowledge and make working with data enjoyable and engaging!
