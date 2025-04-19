@@ -1,13 +1,13 @@
 /*
-===============================================================================
+=========================================
 Complete Part-to-Whole Analysis
-===============================================================================
-Purpose:
+=========================================
+The why:
     - To compare performance or metrics across dimensions or time periods.
     - To verify and evaluate differences between categories.
     - Analysis can be Useful for A/B testing or regional comparisons.
 
-SQL Functions Used:
+What was used? SQL Functions Used:
     - SUM(), AVG(): Aggregates values for comparison.
     - Window Functions: SUM() OVER() for total calculations.
 ===============================================================================
