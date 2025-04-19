@@ -2,11 +2,11 @@
 ===============================
 Data Segmentation Analysis
 ===============================
-Purpose:
+The why:
     - To group data into meaningful categories for targeted insights.
     - For customer segmentation, product categorization, or regional analysis.
 
-SQL Functions Used:
+What was used? SQL Functions Used:
     - CASE: Defines custom segmentation logic.
     - GROUP BY: Groups data into segments.
 ===============================================================================
