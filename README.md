@@ -1,5 +1,5 @@
 # sql-data-analysis-project
-How to achieve Customer Reports for to make business decisions. 
+How to achieve Customer Reports for making business decisions. 
 
 Welcome to my SQL project! 🚀
 This project demonstrates comprehensive gather for SQL scripts to achieve data analytics and reporting.
